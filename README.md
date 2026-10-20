@@ -1,3 +1,3 @@
 # A Demo
- repo made to teach me how to use github
+ repo made to teach me how to use github\n
  ~Oscar Chang
