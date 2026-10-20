@@ -1,3 +1,4 @@
 # A Demo
- repo made to teach me how to use github\n
- ~Oscar Chang
+ repo made to teach me how to use github
+ <br>
+ Author: Oscar Chang
