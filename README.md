@@ -2,5 +2,3 @@
  repo made to teach me how to use github
  <br>
  Author: Oscar Chang
-<br>
-# asdasdadsadassxfsadasdsaasdasdadsadassxf# sadasdsaasdasdadsadassxfsadasdsaasdasdadsadassxfsadasdsaasda<br><br>sdadsadassxfsadasdsaasdasdadsadassxfsadasdsaa<br<br>>sdasdadsadassxfsadasdsaasdasdadsadassxfsadasdsaasdasdadsadassxfsadasdsaasdasdads<br>adassxfsadasdsaas<br>dasdadsadassxfsadasdsaasdasdadsadassxfsadasdsaasdasdadsadassxfsadasdsaasdasdadsadassxfsadasdsaasdasdadsadassxfsadasdsaasdasdad # sadassxfsadasdsaasdasdadsadassxfsada<br>sdsaasdasdadsadassxfsadasdsa
